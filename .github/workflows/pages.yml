@@ -1,6 +1,8 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/angelseblani/nextjs/actions/workflows/pages.yml/badge.svg?branch=Main&event=branch_protection_rule)](https://github.com/angelseblani/nextjs/actions/workflows/pages.yml)
+
 on:
   # Runs on pushes targeting the default branch
   push:
